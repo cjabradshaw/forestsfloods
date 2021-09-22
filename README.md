@@ -1,4 +1,6 @@
-# forestsfloods
+# Native forests reduce incidence & severity of floods
+<img align="right" src="flood.png" alt="flood" width="300" style="margin-top: 20px">
+
 Deforestation amplifies flood risk and severity in the developing world
 
 Accompanies paper:
